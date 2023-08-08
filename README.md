@@ -30,9 +30,6 @@
 </div>
 
 ## Porcentagem de linguagens
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-  </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAraujo237)](https://github.com/anuraghazra/github-readme-stats)
 
 
