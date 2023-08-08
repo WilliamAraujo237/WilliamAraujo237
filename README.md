@@ -1,4 +1,4 @@
-### Olá meu nome é William Araújo muito bem vindo ao meu GitHib 🖐️
+### Olá meu nome é William Araújo muito bem vindo ao meu GitHub 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-araujo-4a33061a6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](william237.araujo@gmail.com)
