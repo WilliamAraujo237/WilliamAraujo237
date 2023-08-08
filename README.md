@@ -33,7 +33,6 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAraujo237)](https://github.com/anuraghazra/github-readme-stats"/>
   </div>
 
 
