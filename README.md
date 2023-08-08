@@ -31,4 +31,4 @@
 ## Porcentagem dos meus projetos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAraujo237)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/WilliamAraujo237/WilliamAraujo237/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/WilliamAraujo237/WilliamAraujo237/blob/output/github-contribution-grid-snake.s
