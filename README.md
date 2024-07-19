@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamAraujo237&show_icons=true&theme=tokyonight)
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVtbThid21oY3UxZ3BiaG5vaDNvajdubDNpOW5jMjBpNnRlZTNudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"  />
+
 
 ## Tecnologias mais utilizadas
 <div style="display: inline_block"><br/>
