@@ -45,6 +45,4 @@
 
 <img src="https://raw.githubusercontent.com/WilliamAraujo237/WilliamAraujo237/output/snake.svg" alt="Snake animation" />
 
-###
-
 
