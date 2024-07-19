@@ -36,5 +36,10 @@
 
 ## Porcentagem de linguagens
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamAraujo237)](https://github.com/anuraghazra/github-readme-stats)
+####
+
+<img src="https://raw.githubusercontent.com/WilliamAraujo237/WilliamAraujo237/output/snake.svg" alt="Snake animation" />
+
+###
 
 
